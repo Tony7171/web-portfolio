@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html body {
+    height: 100%;
+    width: 100%;
+}
+h1{
+    font-size: 36px;
+    padding: 0;
+}
+p{
+    font-size: 14px;
+    padding-top: 4%;
+    color: rgb(174, 185, 196);
+
+}
+.half{
+    width: 40%;
+    float: left;
+    padding: 5%;
+    margin: 5%;
+}
+.half img{
+    width: 60%;
+    border-radius: 30%;
+}
+span{
+    color: rgb(250, 123, 38);
+}
+section{
+    height: 600px; 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV6KY7ydavW9bL8OZ_lDkNf046GP3NaE3KqExL3g8n4g&s");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
