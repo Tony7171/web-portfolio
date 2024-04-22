@@ -12,10 +12,25 @@ h1{
     font-size: 36px;
     padding: 0;
 }
+h4{
+    font-size: 26px;
+    padding: 0;
+    color:rgb(70, 25, 25);
+}
 p{
     font-size: 14px;
     padding-top: 4%;
     color: rgb(174, 185, 196);
+
+}
+button{
+    padding: 4%;
+    background-color: rgb(142, 165, 172);
+    font-size: 20px;
+    font-weight: 600;
+    width: 250px;
+    border-radius: 30px;
+    margin-top:5% ;
 
 }
 .half{
@@ -36,4 +51,23 @@ section{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV6KY7ydavW9bL8OZ_lDkNf046GP3NaE3KqExL3g8n4g&s");
     background-repeat: no-repeat;
     background-size: 100%;
+    align-items: center;
+
+}
+.box-1{
+    width: 30%;
+    float: right;
+    padding: 5%;
+    margin: 5%;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.box-2{
+    width: 30%;
+    float: left;
+    padding: 5%;
+    margin: 5%;
+    border: 1px solid white;
+    border-radius: 10px;
+
 }
